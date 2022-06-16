@@ -6,6 +6,7 @@
 <h1 align="center">
   Selfhosted Gatsby Resources
 </h1>
+<p align="center">A collection of resources specifically selected for those of you selfhosting Gatsby (outside of Gatsby Cloud, Netlify, etc).</p>
 
 <h3>Plugins</h3>
 <ul>
