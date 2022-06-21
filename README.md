@@ -17,6 +17,8 @@
 <h3>Documentation</h3>
 <ul>
     <li><a href="https://www.gatsbyjs.com/docs/debugging-incremental-builds/">Debugging Incremental Builds</a> - Dive into how incremental builds work and how you can debug them.</li>
+    <li><a href="https://www.gatsbyjs.com/docs/multi-core-builds/">Multi-core Builds</a> - Control the CPU consumed by your build process with `GATSBY_CPU_COUNT`.</li>
+    <li><a href="https://www.gatsbyjs.com/docs/how-to/performance/resolving-out-of-memory-issues/#increase-allocated-memory-andor-upgrade-your-hardware">Increase allocated memory</a> - Control your Node memory usage with `NODE_OPTIONS=--max-old-space-size`.</li>
 </ul>
 
 <h3>Blog Posts & Articles</h3>
