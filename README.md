@@ -8,18 +8,18 @@
 </h1>
 <p align="center">A collection of resources for those of us that host Gatsby outside of the standard providers like Gatsby Cloud, Netlify, Vercel, etc.</p>
 
-<h2>Plugins</h2>
-<ul>
-    <li><a href="https://github.com/gatsby-uc/plugins/tree/main/packages/gatsby-plugin-fastify">gatsby-plugin-fastify</a> - A way to integrate your Gatsby site with a Node.js server using Fastify. Enables Functions, DSG, SSR, Image CDN, etc.</li>
-    <li><a href="https://github.com/jariz/gatsby-plugin-s3">gatsby-plugin-s3</a> - Enables you to deploy your gatsby site to a S3 bucket.</li>
-</ul>
-
 <h2>Gatsby</h2>
 <h3>Official Documentation</h3>
 <ul>
     <li><a href="https://www.gatsbyjs.com/docs/debugging-incremental-builds/">Debugging Incremental Builds</a> - Dive into how incremental builds work and how you can debug them.</li>
     <li><a href="https://www.gatsbyjs.com/docs/multi-core-builds/">Multi-core Builds</a> - Control the CPU consumed by your build process with `GATSBY_CPU_COUNT`.</li>
     <li><a href="https://www.gatsbyjs.com/docs/how-to/performance/resolving-out-of-memory-issues/#increase-allocated-memory-andor-upgrade-your-hardware">Increase allocated memory</a> - Control your Node memory usage with `NODE_OPTIONS=--max-old-space-size`.</li>
+</ul>
+
+<h3>Plugins</h3>
+<ul>
+    <li><a href="https://github.com/gatsby-uc/plugins/tree/main/packages/gatsby-plugin-fastify">gatsby-plugin-fastify</a> - A way to integrate your Gatsby site with a Node.js server using Fastify. Enables Functions, DSG, SSR, Image CDN, etc.</li>
+    <li><a href="https://github.com/jariz/gatsby-plugin-s3">gatsby-plugin-s3</a> - Enables you to deploy your gatsby site to a S3 bucket.</li>
 </ul>
 
 <h3>GitHub Issues</h3>
