@@ -21,6 +21,12 @@
     <li><a href="https://www.gatsbyjs.com/docs/how-to/performance/resolving-out-of-memory-issues/#increase-allocated-memory-andor-upgrade-your-hardware">Increase allocated memory</a> - Control your Node memory usage with `NODE_OPTIONS=--max-old-space-size`.</li>
 </ul>
 
+<h2>Gatsby Issues</h2>
+<ul>
+    <li><a href="https://github.com/gatsbyjs/gatsby/issues/12817">Dynamically build pages in lambda environment</a> - Brief discussion on building Gatsby in AWS Lambda functions.</li>
+    <li><a href="https://github.com/gatsbyjs/gatsby/issues/14366">Add a gatsby cli api</a> - Brief look at the Gatsby CLI and how one might use it to call functions programmatically.</li>
+</ul>
+
 <h2>Cloud Hosting</h2>
 <ul>
     <li><a href="https://dev.to/mikeyglitz/developing-a-nextjs-app-on-openfaas-oof">Developing a NextJS app on OpenFaaS</a> - Self-hosting with OpenFaaS (Serverless Kubernetes). Next.js - but still useful to compare.</li>
@@ -73,11 +79,8 @@
 - https://www.reddit.com/r/nextjs/comments/q7vw6p/cheaper_vercel_alternatives_specifically_to/
 - https://www.reddit.com/r/nextjs/comments/qwa8m8/is_it_possible_to_deploy_a_nextjs_app_with_ssr/
 - https://github.com/netlify/gatsby-runner#how-it-works (https://www.netlify.com/blog/cut-build-times-with-gatsby-runner/)
-- https://github.com/gatsbyjs/gatsby/issues/12817
 - https://www.jameshill.dev/articles/running-gatsby-within-aws-lambda/
   - https://github.com/jahilldev/gatsby-lambda/blob/main/src/lambda.ts
 - https://gist.github.com/digitalkaoz/94933c246ba67032a1507083e2605a30
 - https://stackoverflow.com/questions/66762442/gatsby-preview-server-in-a-serverless-stateless-environment
-- https://github.com/gatsbyjs/gatsby/issues/14366
-- 
 </pre>
