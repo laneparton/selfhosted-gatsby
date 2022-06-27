@@ -52,4 +52,6 @@
 - https://www.reddit.com/r/nextjs/comments/qwa8m8/is_it_possible_to_deploy_a_nextjs_app_with_ssr/
 - https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions
 - https://github.com/DymytriiLynx/gatsby-webhooks
+- https://medium.com/technogise/auto-build-gatsby-application-using-custom-webhook-on-wordpress-c3c5f70ca005
+- 
 </pre>
