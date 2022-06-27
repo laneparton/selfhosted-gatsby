@@ -14,20 +14,22 @@
     <li><a href="https://github.com/jariz/gatsby-plugin-s3">gatsby-plugin-s3</a> - Enables you to deploy your gatsby site to a S3 bucket.</li>
 </ul>
 
-<h2>Gatsby Documentation</h2>
+<h2>Gatsby</h2>
+<h3>Official Documentation</h3>
 <ul>
     <li><a href="https://www.gatsbyjs.com/docs/debugging-incremental-builds/">Debugging Incremental Builds</a> - Dive into how incremental builds work and how you can debug them.</li>
     <li><a href="https://www.gatsbyjs.com/docs/multi-core-builds/">Multi-core Builds</a> - Control the CPU consumed by your build process with `GATSBY_CPU_COUNT`.</li>
     <li><a href="https://www.gatsbyjs.com/docs/how-to/performance/resolving-out-of-memory-issues/#increase-allocated-memory-andor-upgrade-your-hardware">Increase allocated memory</a> - Control your Node memory usage with `NODE_OPTIONS=--max-old-space-size`.</li>
 </ul>
 
-<h2>Gatsby Issues</h2>
+<h3>GitHub Issues</h3>
 <ul>
     <li><a href="https://github.com/gatsbyjs/gatsby/issues/12817">Dynamically build pages in lambda environment</a> - Brief discussion on building Gatsby in AWS Lambda functions.</li>
     <li><a href="https://github.com/gatsbyjs/gatsby/issues/14366">Add a gatsby cli api</a> - Brief look at the Gatsby CLI and how one might use it to call functions programmatically.</li>
 </ul>
 
 <h2>Cloud Hosting</h2>
+<h3>Blog Posts & Discussions</h3>
 <ul>
     <li><a href="https://dev.to/mikeyglitz/developing-a-nextjs-app-on-openfaas-oof">Developing a NextJS app on OpenFaaS</a> - Self-hosting with OpenFaaS (Serverless Kubernetes). Next.js - but still useful to compare.</li>
     <li><a href="https://medium.com/netlify/migrating-netlifys-continuous-deployment-infra-to-kubernetes-and-everything-we-learned-along-the-1e5989254269">Migrating Netlify’s Continuous Deployment infra to Kubernetes (and everything we learned along the way)</a> - A deep dive in the work Netlify did to move onto Kubernetes.</li>
@@ -35,13 +37,7 @@
     <li><a href="https://www.reddit.com/r/nextjs/comments/s4xeg5/who_here_is_working_on_something_hosted_somewhere/">Who here is working on something hosted somewhere other than Vercel or Netifly?</a> - A relevant thread on alernative hosting options.</li>    
 </ul>
 
-<h3>Cloud Hosting - Tools</h3>
-<ul>
-    <li><a href="https://docs.meli.sh/">Meli Docs</a> - Meli is an open source platform built for deploying static sites and frontend applications. Unclear how well maintained it is, but still interesting nonetheless.</li>
-    <li><a href="https://github.com/fission/fission">Fission: Serverless Functions for Kubernetes</a> - Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.</li>
-</ul>
-
-<h3>Cloud Hosting - Webhooks</h3>
+<h3>Webhooks</h3>
 <ul>
     <li><a href="https://docs.aws.amazon.com/amplify/latest/userguide/webhooks.html">Incoming webhooks</a> - Documentation on AWS Amplify webhooks, which may be useful in deploying content changes from your CMS.</li>
     <li><a href="https://developers.cloudflare.com/pages/platform/deploy-hooks/">Cloudflare Deploy Hooks</a> - With Deploy Hooks, you can trigger deployments using event sources beyond commits in your source repository.</li>
@@ -54,11 +50,13 @@
   </pre>
 </ul>
 
-<h3>Cloud Hosting - Webhooks</h3>
+<h3>Related Tools</h3>
 <ul>
+    <li><a href="https://docs.meli.sh/">Meli Docs</a> - Meli is an open source platform built for deploying static sites and frontend applications. Unclear how well maintained it is, but still interesting nonetheless.</li>
+    <li><a href="https://github.com/fission/fission">Fission: Serverless Functions for Kubernetes</a> - Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.</li>
 </ul>
 
-<h2>Blog Posts & Articles</h2>
+<h2>Blog Posts & Discussions</h2>
 <ul>
     <li><a href="https://valenciandigital.com/insights/why-containerize-your-gatsby-application">Why Containerize Your Gatsby Application?</a> - A quick tutorial on containerizing Gatsy + NGINX.</li>
     <li><a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-gatsby-application-to-digitalocean-app-platform">How to Deploy a Gatsby Application to DigitalOcean App Platform</a> - Deploy Gatsby to DigitalOcean's PaaS, App Platform.</li>
