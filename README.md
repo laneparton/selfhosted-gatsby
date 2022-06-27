@@ -53,5 +53,11 @@
 - https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions
 - https://github.com/DymytriiLynx/gatsby-webhooks
 - https://medium.com/technogise/auto-build-gatsby-application-using-custom-webhook-on-wordpress-c3c5f70ca005
+- https://humanoids.nl/en/articles/sanity-webhook-github/
+- https://mxd.codes/articles/how-to-deploy-your-gatsby-site-on-your-own-server
+- https://docs.aws.amazon.com/amplify/latest/userguide/webhooks.html
+- https://moonmeister.net/blog/gatsby-incremental-builds-the-backstory/
+- https://developers.cloudflare.com/pages/platform/deploy-hooks/
+- https://github.com/netlify/gatsby-runner#how-it-works (https://www.netlify.com/blog/cut-build-times-with-gatsby-runner/)
 - 
 </pre>
