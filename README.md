@@ -14,7 +14,7 @@
     <li><a href="https://github.com/jariz/gatsby-plugin-s3">gatsby-plugin-s3</a> - Enables you to deploy your gatsby site to a S3 bucket.</li>
 </ul>
 
-<h3>Documentation</h3>
+<h3>Gatsby Documentation</h3>
 <ul>
     <li><a href="https://www.gatsbyjs.com/docs/debugging-incremental-builds/">Debugging Incremental Builds</a> - Dive into how incremental builds work and how you can debug them.</li>
     <li><a href="https://www.gatsbyjs.com/docs/multi-core-builds/">Multi-core Builds</a> - Control the CPU consumed by your build process with `GATSBY_CPU_COUNT`.</li>
@@ -36,7 +36,7 @@
 <h3>Cloud Hosting</h3>
 <ul>
     <li><a href="https://dev.to/mikeyglitz/developing-a-nextjs-app-on-openfaas-oof">Developing a NextJS app on OpenFaaS</a> - Self-hosting with OpenFaaS (Serverless Kubernetes). Next.js - but still useful to compare.</li>
-    <li><a href="https://docs.meli.sh/">Meli Docs</a> - Meli is an open source platform built for deploying static sites and frontend applications.</li>
+    <li><a href="https://docs.meli.sh/">Meli Docs</a> - Meli is an open source platform built for deploying static sites and frontend applications. Unclear how well maintained it is, but still interesting nonetheless.</li>
     <li><a href="https://github.com/fission/fission">Fission: Serverless Functions for Kubernetes</a> - Fission is a fast serverless framework for Kubernetes with a focus on developer productivity and high performance.</li>
     <li><a href="https://medium.com/netlify/migrating-netlifys-continuous-deployment-infra-to-kubernetes-and-everything-we-learned-along-the-1e5989254269">Migrating Netlify’s Continuous Deployment infra to Kubernetes (and everything we learned along the way)</a> - A deep dive in the work Netlify did to move onto Kubernetes.</li>
     <li><a href="https://www.reddit.com/r/devops/comments/u7vzzl/how_do_you_think_vercelnetlify_implement_their/">How do you think Vercel/Netlify implement their preview URL feature?</a> - An interesting look at the infrastructure behind preview URLs.</li>
