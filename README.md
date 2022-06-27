@@ -73,5 +73,11 @@
 - https://www.reddit.com/r/nextjs/comments/q7vw6p/cheaper_vercel_alternatives_specifically_to/
 - https://www.reddit.com/r/nextjs/comments/qwa8m8/is_it_possible_to_deploy_a_nextjs_app_with_ssr/
 - https://github.com/netlify/gatsby-runner#how-it-works (https://www.netlify.com/blog/cut-build-times-with-gatsby-runner/)
+- https://github.com/gatsbyjs/gatsby/issues/12817
+- https://www.jameshill.dev/articles/running-gatsby-within-aws-lambda/
+  - https://github.com/jahilldev/gatsby-lambda/blob/main/src/lambda.ts
+- https://gist.github.com/digitalkaoz/94933c246ba67032a1507083e2605a30
+- https://stackoverflow.com/questions/66762442/gatsby-preview-server-in-a-serverless-stateless-environment
+- https://github.com/gatsbyjs/gatsby/issues/14366
 - 
 </pre>
