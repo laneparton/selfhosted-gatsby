@@ -9,7 +9,7 @@
 <p align="center">A collection of resources for those of us that host Gatsby outside of the standard providers like Gatsby Cloud, Netlify, Vercel, etc.</p>
 
 <h2>Gatsby</h2>
-<h3>Official Documentation</h3>
+<h3>Documentation</h3>
 <ul>
     <li><a href="https://www.gatsbyjs.com/docs/debugging-incremental-builds/">Debugging Incremental Builds</a> - Dive into how incremental builds work and how you can debug them.</li>
     <li><a href="https://www.gatsbyjs.com/docs/multi-core-builds/">Multi-core Builds</a> - Control the CPU consumed by your build process with `GATSBY_CPU_COUNT`.</li>
@@ -43,11 +43,9 @@
     <li><a href="https://developers.cloudflare.com/pages/platform/deploy-hooks/">Cloudflare Deploy Hooks</a> - With Deploy Hooks, you can trigger deployments using event sources beyond commits in your source repository.</li>
     <li><a href="https://github.com/DymytriiLynx/gatsby-webhooks">gatsby-webhooks</a> - An open-source implementation of Build webhooks using Express.js</li>
     <li><a href="https://medium.com/technogise/auto-build-gatsby-application-using-custom-webhook-on-wordpress-c3c5f70ca005#3c90">Auto build Gatsby application using custom Webhook on Wordpress</a> - An interesting write-up with a real example of a Java (Springboot) webhook.</li>
-    <pre>
-      - https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions
-      - https://humanoids.nl/en/articles/sanity-webhook-github/
-      - https://mxd.codes/articles/how-to-deploy-your-gatsby-site-on-your-own-server
-  </pre>
+    <li><a href="https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions">Create a WordPress Plugin to Rebuild Your Gatsby App on AWS using GitHub Actions</a> - Trigger a Build on AW via GitHub</li>
+    <li><a href="https://humanoids.nl/en/articles/sanity-webhook-github/">Automatically rebuilding Gatsby websites using a webhook</a> -  An open source webhook that rebuilds your Gatsby web application once your content is published in Sanity</li>
+    <li><a href="https://mxd.codes/articles/how-to-deploy-your-gatsby-site-on-your-own-server">How to deploy your Gatsby site on your own server</a> -  Utilizes GitHub Actions to create a webhook that runs `git pull`,`npm install`, and `gatsby build`</li>
 </ul>
 
 <h3>Related Tools</h3>
