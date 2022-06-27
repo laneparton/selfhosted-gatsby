@@ -67,8 +67,6 @@
     <li><a href="https://www.youtube.com/watch?v=khydpJc3iFE">Gatsby JS | Continuous deployment with AWS Amplify</a> - Deploy a Gatsby JS website to AWS Amplify.</li>
 </ul>
 
-<hr style="margin: 32px 0;"/>
-
 <h2>To be sorted...</h2>
 <pre>
 - https://dockerquestions.com/2020/12/07/kaniko-how-to-cache-folders-from-gatsby-build-in-kubernetes-using-tekton/
