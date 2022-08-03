@@ -39,9 +39,10 @@
 
 <h3>Webhooks</h3>
 <ul>
+    <li><a href="https://gist.github.com/laneparton/7a29eae1810168dfd67aecc465f6d112">gatsby-webhook.js</a> - A webhook that builds Gatsby via an Express endpoint with a FIFO queue.</li>
+    <li><a href="https://github.com/DymytriiLynx/gatsby-webhooks">gatsby-webhooks</a> - An open-source implementation of Build webhooks using Express.js</li>
     <li><a href="https://docs.aws.amazon.com/amplify/latest/userguide/webhooks.html">Incoming webhooks</a> - Documentation on AWS Amplify webhooks, which may be useful in deploying content changes from your CMS.</li>
     <li><a href="https://developers.cloudflare.com/pages/platform/deploy-hooks/">Cloudflare Deploy Hooks</a> - With Deploy Hooks, you can trigger deployments using event sources beyond commits in your source repository.</li>
-    <li><a href="https://github.com/DymytriiLynx/gatsby-webhooks">gatsby-webhooks</a> - An open-source implementation of Build webhooks using Express.js</li>
     <li><a href="https://medium.com/technogise/auto-build-gatsby-application-using-custom-webhook-on-wordpress-c3c5f70ca005#3c90">Auto build Gatsby application using custom Webhook on Wordpress</a> - An interesting write-up with a real example of a Java (Springboot) webhook.</li>
     <li><a href="https://www.twilio.com/blog/create-wordpress-plugin-rebuild-gatsby-app-aws-github-actions">Create a WordPress Plugin to Rebuild Your Gatsby App on AWS using GitHub Actions</a> - Trigger a Build on AW via GitHub</li>
     <li><a href="https://humanoids.nl/en/articles/sanity-webhook-github/">Automatically rebuilding Gatsby websites using a webhook</a> -  An open source webhook that rebuilds your Gatsby web application once your content is published in Sanity</li>
